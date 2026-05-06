@@ -4,7 +4,7 @@
 #define pf printf 
 #define sf scanf 
  
-char dcl[26] = "ZXDGSZANYOBTMJCEVHKWPLQURI"; 
+char dcl[26] = "ZXDGSFANYOBTMJCEVHKWPLQURI"; 
 char ecl[26] = "abcdefghijklmnopqrstuvwxyz"; 
  
 void ec(char *p); 
